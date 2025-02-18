@@ -1,0 +1,5 @@
+print("CCCCC", "\tOOOOO", "\tDDDDD",  "\tEEEEE")
+print("C\t ",  "\tO   O", "\tD    D", "\tE")
+print("C\t ",  "\tO   O", "\tD     D","EEE")
+print("C\t ",  "\tO   O", "\tD    D", "\tE")
+print("CCCCC", "\tOOOOO", "\tDDDDD",  "\tEEEEE")
