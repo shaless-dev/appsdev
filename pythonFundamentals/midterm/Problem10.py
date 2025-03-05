@@ -1,0 +1,5 @@
+str = input("Enter words separated by space: ")
+delimiter = input("Enter a delimiter: ")
+words = str.split()
+joined = delimiter.join(words)
+print("Joined String: ", joined)
